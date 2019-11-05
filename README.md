@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/joshuasereno/joshuasereno/_apis/build/status/Cap21.pipelines-java?branchName=master)](https://dev.azure.com/joshuasereno/joshuasereno/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
